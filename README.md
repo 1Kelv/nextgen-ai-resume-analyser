@@ -28,3 +28,15 @@ NextGen AI is a smart CV analyser designed to bring fairness and transparency in
 2. Install required libraries:
    ```bash
    pip install -r requirements.txt
+   once all dependencies are installed, run streamlit run app.py
+
+
+## To auto update github
+
+git add app.py 
+## change app.py to any file you update
+
+git commit -m "Update SHAP visual styling and fix resume parsing"
+
+## change update message to the relevant message
+git push
