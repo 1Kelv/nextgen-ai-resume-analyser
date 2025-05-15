@@ -1,0 +1,25 @@
+# Ignore virtual environment
+.venv/
+
+# Bytecode cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Environment & credentials
+.env
+
+# Python packages & pickled models
+*.pkl
+
+# Streamlit specific cache
+.streamlit/
+
+# Zip files or large exports
+*.zip
