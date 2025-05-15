@@ -1,0 +1,10 @@
+streamlit==1.31.1
+pandas==1.5.3
+numpy==1.26.2
+scikit-learn==1.2.2
+shap==0.44.1
+lime==0.2.0.1
+fairlearn==0.7.0
+matplotlib==3.7.1
+nltk==3.8.1
+setuptools>=58.0.0

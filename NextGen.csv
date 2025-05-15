@@ -1,0 +1,131 @@
+name,experience,skills,education,job_category
+Fatima Nasiru,7,Java|Python|AWS|Docker,BSc Computer Science,Senior Software Engineer				
+Adedamola Olusunmade,5,Agile|Scrum|AWS|Risk Management,MSc Information Systems,IT Project Manager				
+Benjamin Obi,3,IT Support|Networking|AWS|Azure,BSc Information Technology,IT Support Engineer				
+Kelvin Olasupo,4,Agile|Scrum|Risk Management|Cloud Technologies,MBA Project Management,Senior Project Manager				
+Nidhi Rana,2,UI/UX|Photoshop|HTML|CSS,BA Graphic Design,Senior Graphic Designer				
+Alex Johnson,6,Python|Data Analysis|Machine Learning,BSc Computer Science,Senior Data Scientist				
+Maria Lee,4,Java|Project Management|Scrum,MBA Project Management,Project Manager				
+James Smith,5,C++|Embedded Systems|IoT,BSc Information Technology,IoT Engineer				
+Linda Brown,7,SQL|Database Design|Data Warehousing,MSc Data Science,Database Administrator				
+Robert Davis,3,JavaScript|React|Node.js,BA Graphic Design,Frontend Developer				
+Patricia Wilson,8,HTML|CSS|UX/UI Design,PhD Artificial Intelligence,UI/UX Designer				
+Michael Clark,2,DevOps|AWS|Docker,BEng Software Engineering,DevOps Engineer				
+Jennifer Lewis,9,Machine Learning|AI|Deep Learning,MSc Cybersecurity,AI Researcher				
+William Young,4,Cybersecurity|Network Security|Encryption,BA Business Administration,Cybersecurity Analyst				
+Elizabeth Hall,6,Blockchain|Cryptocurrency|Smart Contracts,BSc Finance,Blockchain Developer				
+David Allen,3,Agile|Scrum|Kanban,MSc Economics,Agile Coach				
+Susan Wright,7,Business Analysis|Risk Management|Consulting,BSc Marketing,Business Consultant				
+Richard King,5,Mobile Development|Android|iOS,BEng Electrical Engineering,Mobile App Developer				
+Barbara Scott,4,Big Data|Hadoop|Spark,MBA International Business,Big Data Engineer				
+Joseph Green,6,Game Development|Unity|Unreal Engine,MSc Robotics,Game Developer				
+John Doe,3,Java|Python|AWS|Docker,BSc Finance,Frontend Developer				
+Jane Smith,7,Agile|Scrum|AWS|Risk Management,BSc Information Technology,Project Manager				
+Alice Johnson,4,Big Data|Hadoop|Spark,MSc Robotics,Game Developer				
+Bob Brown,2,UI/UX|Photoshop|HTML|CSS,BSc Computer Science,Senior Graphic Designer				
+Charlie Davis,8,Cybersecurity|Network Security|Encryption,MSc Cybersecurity,Cybersecurity Analyst				
+Emily Wilson,6,Python|Data Analysis|Machine Learning,BEng Software Engineering,AI Researcher				
+Daniel Moore,9,Machine Learning|AI|Deep Learning,PhD Artificial Intelligence,Senior Data Scientist				
+Sophia Taylor,5,Blockchain|Cryptocurrency|Smart Contracts,MBA International Business,Blockchain Developer				
+Ethan Anderson,1,DevOps|AWS|Docker,MSc Information Systems,DevOps Engineer				
+Olivia Thomas,3,SQL|Database Design|Data Warehousing,MSc Data Science,Database Administrator				
+John Doe,2,Mobile Development|Android|iOS,BSc Finance,Mobile App Developer				
+Jane Smith,4,JavaScript|React|Node.js,BA Graphic Design,Frontend Developer				
+Alice Johnson,7,C++|Embedded Systems|IoT,BSc Information Technology,IoT Engineer				
+Bob Brown,6,Agile|Scrum|Kanban,MSc Economics,Agile Coach				
+Charlie Davis,5,IT Support|Networking|AWS|Azure,MBA Project Management,IT Support Engineer				
+Emily Wilson,3,Big Data|Hadoop|Spark,MBA International Business,Big Data Engineer				
+Daniel Moore,9,UI/UX|Photoshop|HTML|CSS,BSc Computer Science,UI/UX Designer				
+Sophia Taylor,8,Blockchain|Cryptocurrency|Smart Contracts,MSc Cybersecurity,Blockchain Developer				
+Ethan Anderson,1,Cybersecurity|Network Security|Encryption,BEng Software Engineering,Cybersecurity Analyst				
+Olivia Thomas,4,Machine Learning|AI|Deep Learning,PhD Artificial Intelligence,AI Researcher				
+John Doe,6,Python|Data Analysis|Machine Learning,BSc Computer Science,Senior Data Scientist				
+Jane Smith,2,Agile|Scrum|AWS|Risk Management,MBA Project Management,Project Manager				
+Alice Johnson,8,DevOps|AWS|Docker,MSc Information Systems,DevOps Engineer				
+Bob Brown,5,SQL|Database Design|Data Warehousing,MSc Data Science,Database Administrator				
+Charlie Davis,7,Mobile Development|Android|iOS,BSc Finance,Mobile App Developer				
+Emily Wilson,3,JavaScript|React|Node.js,BA Graphic Design,Frontend Developer				
+Daniel Moore,4,C++|Embedded Systems|IoT,BSc Information Technology,IoT Engineer				
+Sophia Taylor,6,Agile|Scrum|Kanban,MSc Economics,Agile Coach				
+Ethan Anderson,9,IT Support|Networking|AWS|Azure,MBA Project Management,IT Support Engineer				
+Olivia Thomas,1,Big Data|Hadoop|Spark,MBA International Business,Big Data Engineer				
+Sarah Mitchell,5,Python|Data Science|Machine Learning,BSc Mathematics,Data Scientist				
+Daniel Thompson,7,Project Management|Agile|Scrum,MBA Business Administration,Project Manager				
+Emily Rodriguez,4,UI/UX Design|Figma|Adobe XD,BA Graphic Design,Product Designer				
+Anthony Perez,6,Cybersecurity|Network Security|Penetration Testing,MSc Cybersecurity,Cybersecurity Engineer				
+Jessica Nguyen,3,Java|Spring Boot|Microservices,BSc Computer Science,Software Developer				
+Matthew Turner,8,Cloud Computing|AWS|Azure,MSc Information Technology,Cloud Solutions Architect				
+Olivia Adams,2,Content Writing|SEO|Marketing,BSc English Literature,Content Specialist				
+Christopher White,9,Full Stack Development|React|Node.js,MSc Software Engineering,Full Stack Developer				
+Sophia Baker,5,Financial Analysis|Risk Management|Excel,MBA Finance,Financial Analyst				
+Joshua Kim,4,Data Analysis|SQL|Power BI,BSc Economics,Data Analyst				
+Isabella Hernandez,7,Product Management|Market Research|Roadmapping,BA Business Management,Product Manager				
+Andrew Scott,6,Blockchain|Solidity|Smart Contracts,BSc Computer Science,Blockchain Engineer				
+Charlotte Cooper,5,Embedded Systems|C++|IoT,MSc Electrical Engineering,Embedded Systems Engineer				
+Ethan Rivera,3,Graphic Design|Illustrator|Photoshop,BA Fine Arts,Graphic Designer				
+Mia Sanchez,4,Software Testing|Automation|Selenium,BSc Software Engineering,QA Engineer				
+Jacob Bell,6,DevOps|Docker|Kubernetes,MSc Computer Networks,DevOps Engineer				
+Amelia Murphy,2,Customer Service|CRM|Communication,BSc Marketing,Customer Support Specialist				
+Logan Foster,7,Game Development|Unity|3D Modelling,BSc Computer Games Technology,Game Developer				
+Grace Ward,5,Legal Research|Contract Law|Litigation,LLB Law,Legal Assistant				
+Michael Hughes,8,Data Engineering|ETL|Big Data,MSc Data Science,Data Engineer				
+Ella Patterson,6,Python|Django|REST APIs,BSc Computer Science,Backend Developer				
+Samuel Bennett,4,Video Editing|Adobe Premiere|After Effects,BA Media Studies,Video Editor				
+Lily Coleman,7,Financial Planning|Budgeting|Forecasting,MBA Accounting,Finance Manager				
+Noah Russell,5,AI Research|NLP|TensorFlow,MSc Artificial Intelligence,AI Engineer				
+Ava Simmons,3,Social Media|Content Creation|Brand Strategy,BSc Digital Marketing,Social Media Manager				
+Henry Foster,8,Network Engineering|Cisco|Firewall Configuration,BSc Network Security,Network Engineer				
+Zoe Morgan,6,Recruitment|Talent Acquisition|HR Strategy,BSc Human Resources,HR Manager				
+Leo Cooper,2,Technical Support|Helpdesk|Troubleshooting,BA Business Information Systems,IT Support Specialist				
+Grace Howard,9,Operations Management|Supply Chain|Logistics,MBA Operations,Operations Manager				
+Oscar Griffin,4,Photography|Lightroom|Studio Lighting,BA Photography,Photographer				
+Isabelle Cook,7,Event Planning|Public Speaking|Stakeholder Management,BA Hospitality Management,Event Coordinator				
+Harry Brooks,5,Mobile Design|UX Research|Wireframing,BSc Interaction Design,Mobile UX Designer				
+Sophie Bell,6,Data Visualisation|Power BI|Tableau,MSc Data Analytics,Business Intelligence Analyst				
+Jack Murray,3,Customer Relationship Management|Salesforce|Lead Generation,BSc Business Management,CRM Specialist				
+Emily Webb,4,Market Analysis|Google Analytics|Email Campaigns,BSc Marketing,Digital Marketing Analyst				
+Charlie Reed,7,IT Auditing|Compliance|Risk Assessment,MSc Information Security,IT Auditor				
+Amelia Edwards,5,Copywriting|Proofreading|Editing,BA English Language,Content Writer				
+Thomas Ward,6,Web Development|HTML|CSS|JavaScript,BSc Web Design,Front End Developer				
+Evie Parker,8,Cloud Security|Penetration Testing|Risk Management,MSc Cybersecurity,Cybersecurity Consultant				
+George Carter,5,Product Design|User Research|Prototyping,BA Product Design,UX Researcher				
+Chloe Adams,7,Data Science|Python|Machine Learning,MSc Data Science,Data Scientist				
+Ryan Mitchell,5,Blockchain|Smart Contracts|Solidity,BSc Computer Science,Blockchain Engineer				
+Mia Hughes,4,Graphic Design|Illustration|Adobe Suite,BA Graphic Arts,Graphic Designer				
+Ethan Palmer,6,Cloud Computing|AWS|Azure,BSc Information Technology,Cloud Solutions Architect				
+Isla Turner,3,SEO|Content Strategy|Keyword Research,BA Marketing,SEO Specialist				
+Lucas Morris,8,Enterprise Architecture|Project Leadership|Stakeholder Engagement,MBA Information Systems,IT Director				
+Sophia Jenkins,5,Digital Illustration|Branding|Logo Design,BA Visual Communications,Brand Designer				
+James Harvey,7,Penetration Testing|Cyber Forensics|Incident Response,MSc Cybersecurity,Penetration Tester				
+Ella Walsh,4,Public Relations|Media Outreach|Crisis Management,BA Communications,PR Specialist				
+Oscar Woods,6,Machine Learning|Data Engineering|Python,MSc Big Data,Machine Learning Engineer				
+Ruby Chapman,5,Customer Service|Account Management|Sales,BSc Business Administration,Account Manager				
+Jacob Knight,7,Full Stack Development|React|Node.js,BSc Software Engineering,Full Stack Developer				
+Grace Barker,6,Research Analysis|Report Writing|Data Collection,BA Economics,Research Analyst				
+Charlie Burns,4,UX Writing|Content Design|Microcopy,BA English Literature,UX Writer				
+Lily Andrews,8,Agile Coaching|Scrum Mastery|Team Facilitation,MSc Agile Project Management,Agile Coach				
+Harrison Davies,3,IT Support|Hardware Troubleshooting|Customer Service,BA IT Management,Technical Support Engineer				
+Sienna Knight,5,Email Marketing|PPC Campaigns|Market Research,BSc Marketing,Email Marketing Specialist				
+Daniel Hayes,6,3D Modelling|Animation|Game Design,BA Game Design,3D Artist				
+Holly Chapman,4,Legal Research|Contract Law|Litigation Support,LLB Law,Legal Assistant				
+Max Coleman,7,Artificial Intelligence|Deep Learning|Neural Networks,PhD Computer Science,AI Research Scientist				
+Sophia Bennett,4,Python|Machine Learning|Data Visualisation,BSc Statistics,Data Analyst				
+Daniel O’Connor,7,Project Management|Scrum|Leadership,MBA Business Administration,Project Manager				
+Chloe Ahmed,3,UX Design|Wireframing|Prototyping,BA Graphic Design,UX Designer				
+Ethan Patel,5,Java|Spring Boot|Microservices,BEng Software Engineering,Backend Developer				
+Grace Turner,6,Data Analysis|Power BI|SQL,MSc Data Analytics,Business Intelligence Analyst				
+Oscar Williams,2,HTML|CSS|JavaScript,BSc Computer Science,Frontend Developer				
+Amelia Harris,8,Cybersecurity|Network Security|Penetration Testing,MSc Cybersecurity,Cybersecurity Consultant				
+Leo Roberts,3,Cloud Computing|AWS|DevOps,BSc Information Technology,Cloud Engineer				
+Isabella Scott,5,Digital Marketing|SEO|Content Strategy,BA Marketing,Digital Marketing Specialist				
+Jacob Moore,4,Blockchain|Smart Contracts|Solidity,MSc Financial Technology,Blockchain Engineer				
+Mia Thompson,7,Python|Deep Learning|NLP,MSc Artificial Intelligence,Machine Learning Engineer				
+Henry Walker,6,Mobile App Development|Flutter|Firebase,BSc Software Development,Mobile Developer				
+Emily Lewis,3,Technical Support|Troubleshooting|Customer Service,BA Business Management,Technical Support Specialist				
+Thomas King,5,JavaScript|Node.js|Express.js,BEng Computer Engineering,Full Stack Developer				
+Lily Evans,2,Quality Assurance|Test Automation|Selenium,BSc Computer Science,QA Tester				
+George Allen,6,Big Data|Hadoop|Spark,MSc Data Science,Big Data Analyst				
+Sophie Mitchell,4,Agile|Scrum|Risk Management,MBA Project Management,Agile Coach				
+Matthew Hill,5,Game Development|Unity|C#,BSc Game Design,Game Developer				
+Ella Carter,3,Content Writing|Copywriting|SEO,BA English Literature,Content Writer				
+Lucas Young,7,Embedded Systems|C++|IoT,BEng Electronic Engineering,Embedded Systems Engineer				
