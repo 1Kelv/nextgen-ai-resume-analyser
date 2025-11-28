@@ -1,6 +1,6 @@
 # NextGen AI – Fair & Transparent CV Analyser
 
-NextGen AI is a smart CV analyser designed to bring fairness and transparency into recruitment decisions. Built during an Agile group project, it uses explainable AI tools like **SHAP** and **LIME** to reveal how decisions are made and includes a **Fairness Audit** that checks for discrimination, especially in education or experience-based selections.
+NextGen AI is a smart CV analyser designed to bring fairness and transparency into recruitment decisions. Built during an Agile group University project, it uses explainable AI tools like **SHAP (SHapley Additive exPlanations)** and **LIME (Local Interpretable Model-agnostic Explanations)** to reveal how decisions are made and includes a **Fairness Audit** that checks for discrimination, especially in education or experience-based selections.
 
 ## Features
 
