@@ -31,12 +31,12 @@ NextGen AI is a smart CV analyser designed to bring fairness and transparency in
    once all dependencies are installed, run streamlit run app.py
 
 
-## To auto update github
+## To auto commit on github
 
 git add app.py 
 ## change app.py to any file you update
 
-git commit -m "Update SHAP visual styling and fix resume parsing"
+git commit -m "Incude the commit message"
 
 ## change update message to the relevant message
 git push
